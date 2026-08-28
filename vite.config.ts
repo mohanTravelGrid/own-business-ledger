@@ -18,7 +18,8 @@ export default defineConfig({
         theme_color: "#14532d",
         background_color: "#f6f5f0",
         display: "standalone",
-        start_url: "/",
+        start_url: "/own-business-ledger/",
+        scope: "/own-business-ledger/",
         icons: [
           {
             src: "icon-192.png",
